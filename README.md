@@ -28,5 +28,5 @@
 
 ## FAQやトラブルシューティング情報
 
-- よくある質問やトラブルシューティング情報は、[FAQ](docs/FAQ.md)ページをご覧ください。
+- よくある質問やトラブルシューティング情報は、[FAQ](docs/faq.md)ページをご覧ください。
 - その他の問題が発生した場合は、[Issues](https://github.com/GIZMODO-WOODS/study-programming/issues)で報告してください。
