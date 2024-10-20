@@ -1,0 +1,3 @@
+[submodule "FreeWiFi/atcoder"]
+	path = FreeWiFi/atcoder
+	url = https://github.com/FreeWiFi7749/atcoder
